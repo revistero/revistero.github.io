@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrevistero_web=self.webpackChunkrevistero_web||[]).push([[883],{429:function(e,t,a){a.r(t);var n=a(7294),l=a(8678),i=a(262);t.default=function(e){var t=e.data,a=e.location,r=t.site.siteMetadata.title;return n.createElement(l.Z,{location:a,title:r},n.createElement(i.Z,{title:"404: Not Found"}),n.createElement("h1",null,"404: Not Found"),n.createElement("p",null,"La ruta solicitada no existe :("))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-6724abcf0ef6d8ac1bc2.js.map

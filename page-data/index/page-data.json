@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Revistero"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Parte I Entre gritos y truenos cruzaron el vado diviendo el arroyo en dos. Ella iba al\nvolante con la mirada clavada en el camino, ya no de…","fields":{"slug":"/que-llueva-que-llueva/parte-uno/"},"frontmatter":{"date":"March 03, 2022","title":"¡Que llueva! ¡Que llueva!","description":"Parte I - Entre gritos y truenos cruzaron el vado diviendo el arroyo en dos (...)"}}]}},"pageContext":{}},
+    "staticQueryHashes": ["3000541721"]}
